@@ -1,6 +1,8 @@
 _NOTE:_ The official documentation has moved from this repo to [http://docs.openhab.org/](http://docs.openhab.org/)!
 
 ## Introduction
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab-distro.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab-distro?ref=badge_shield)
+
 
 The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation. It is a pure Java solution, fully based on OSGi.
 
@@ -45,3 +47,7 @@ In case of problems or questions, please join our vibrant [openHAB community](ht
 </tr>
 
 </table>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab-distro.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab-distro?ref=badge_large)
